@@ -1,0 +1,30 @@
+B2b Starting page has two simple questions
+Do i have suplier number or not
+If there is no number,
+Request a new number page will open
+If have supplier number,
+Do you need access to BMW partner portal, then give mail address for application
+
+Enter the inviation code for new registration.
+ 
+New change in LDB:
+My sub suppliers
+An invitation code for sub supplier will be created
+
+
+Application ca be found in Data transfer-> Fast-lane applicants(with invitation code) / Applicants (without invitation code).
+
+Can see who invited in administration.
+
+Few of the markets are removed in search 
+Administration Tech-> Suche Administrieren (Can view status of markets active/deactivate)
+
+Risk Status -> Information Security - Traffic lights were removed for few certificates.(Doubt)
+
+
+LCAT-> Changed role needed to this(LCAT Management Role)
+
+
+Human Resource Data
+
+Auswetungen->Excel Exports
